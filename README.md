@@ -1,2 +1,14 @@
 # cn-membercn-hub
-HTML page archive and documentation
+
+自动生成页面存放处
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
